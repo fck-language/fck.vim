@@ -1,0 +1,20 @@
+*ft_fck.txt*      Filetype plugin for fck
+
+==============================================================================
+CONTENTS                                                                 *fck*
+
+1. Introduction                                                    |fck-intro|
+2. Commands                                                     |fck-commands|
+
+==============================================================================
+INTRODUCTION                                                      *fck-intro*
+
+This plugin provides syntax highlighting for fck files.
+
+==============================================================================
+COMMANDS                                                       *fck-commands*
+
+This plugin will eventually have some commands added to allow you to run 
+fck scripts from within vim
+
+==============================================================================
